@@ -1,0 +1,9 @@
+.Editor {
+    font-family: sans-serif;
+    background-color: white;
+    padding: 5px 10px;
+    text-align: left;
+    border: 1px solid whitesmoke;
+    height: available;
+    min-height: 250px;
+}
